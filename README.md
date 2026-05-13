@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Descripción General
+## Descripción General
 
 Este proyecto recupera y rediseña un **sistema dosificador por ganancia de peso** que estaba fuera de servicio. La intervención incluyó:
 
@@ -20,13 +20,13 @@ El sistema operó nuevamente con niveles aceptables de precisión (error < 6.2% 
 
 ---
 
-## 🎯 Objetivo del Proyecto
+## Objetivo del Proyecto
 
 Recuperar y rediseñar el sistema dosificador para restablecer su funcionamiento y potenciar su uso como instrumento educativo en la enseñanza de automatización industrial, bajo estándares actuales y tecnología Rockwell Automation.
 
 ---
 
-## ⚙️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 | Categoría          | Tecnología |
 |--------------------|------------|
@@ -40,7 +40,7 @@ Recuperar y rediseñar el sistema dosificador para restablecer su funcionamiento
 
 ---
 
-## 🧠 Arquitectura de Control (ISA-88)
+## Arquitectura de Control (ISA-88)
 
 El sistema sigue la estructura modular del estándar **ISA S88**, separando la lógica de control de las funciones de proceso. Esto permite:
 
@@ -48,7 +48,7 @@ El sistema sigue la estructura modular del estándar **ISA S88**, separando la l
 - Reconfiguración flexible
 - Mayor claridad en la programación Ladder
 
-## 👨‍🎓 Autores
+## Autores
 
 - **Paul Camilo Gutiérrez España**  
 - **Jesús Alejandro Sarmiento Villamizar**  
